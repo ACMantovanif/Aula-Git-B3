@@ -1,0 +1,7 @@
+ public static void AuladiGiT() {
+
+        System.out.println(" - Boa tarde /n  - sai zicaaaaaa");
+
+
+
+    }
